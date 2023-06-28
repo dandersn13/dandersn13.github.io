@@ -23,9 +23,9 @@
 
         
 
-        
+        <!--
         <p class="view"><a href="https://github.com/dandersn13">View My GitHub Profile</a></p>
-        
+        -->
 
         
       </header>
