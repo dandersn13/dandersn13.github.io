@@ -21,4 +21,4 @@ This exercise was mainly an experiment in setting up ML tools for algebraic comb
 * The whole process was remarkably quick.  Not just the model training &mdash; that was the quickest part &mdash; but _everything_ from start to finish, including installing and learning LightGBM, generating and preparing the data, and (coarsely) analyzing the results.  I started on Sunday, having never worked in ML or data science, and I am posting this report on Thursday, after working on this project in spare time.  (The bulk of that time was spent setting up my GitHub page!)
 * This is not to suggest that significant work in the subject is easy &mdash; far from it &mdash; but merely that with the user-friendly tools available now, the barrier to entry is low.  (Students take note...)
 
-Thanks to [Kyu-Hwan Lee](https://automorphy.github.io/al-folio/) for his related work!
+Thanks to [Kyu-Hwan Lee](https://automorphy.github.io/al-folio/) for his related work.  My work on this project was partially supported by an NSF CAREER grant.
