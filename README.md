@@ -21,8 +21,7 @@
 <p>To be updated with some new experiments soon!</p>
       </section>
       <footer>
-        
-        <p><small>Hosted on GitHub Pages &mdash; Based on a theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      <p><small>Hosted on GitHub Pages &mdash; Based on a theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
   </body>
