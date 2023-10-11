@@ -10,4 +10,4 @@ Some code for computing Schubert polynomials and variations can be found at my [
 
 Here is my [first experiment](./ml-lrc.md) in ML.
 
-I'll have some more experiments and code posted soon!
+Here is a widget for drawing [bumpless pipe dreams](https://github.com/pseudoeffective/bpds#bpds).
