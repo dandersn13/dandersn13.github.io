@@ -3,6 +3,6 @@ I'm a mathematician at the [Ohio State University](https://people.math.osu.edu/a
 
 Some code for computing Schubert polynomials and variations can be found at my [github](https://github.com/pseudoeffective/).
 
-Here is my [first experiment](./ml-lrc.html) in ML.
+Here is my [first experiment](https://github.com/pseudoeffective/ml-lrc#ml-lrc--ml-for-littlewood-richardson-numbers) in ML.
 
-I'll have some more experiments and code posted soon!
+Here is a widget for drawing [bumpless pipe dreams](https://github.com/pseudoeffective/bpds#bpds).
