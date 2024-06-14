@@ -8,7 +8,7 @@ I'm a mathematician at the [Ohio State University](https://people.math.osu.edu/a
   
 Some code for computing Schubert polynomials and variations can be found at my [github](https://github.com/pseudoeffective/).
 
-Here is the [SchubertPolynomials](https://github.com/pseudoeffective/SchubertPolynomials.jl) Julia package.
+Here is the [SchubertPolynomials](https://github.com/pseudoeffective/SchubertPolynomials.jl#schubertpolynomials) Julia package.
 
 Here is my [first experiment](./ml-lrc.md) in ML.
 
